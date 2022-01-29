@@ -1,0 +1,16 @@
+{
+  "name": "express-node",
+  "version": "1.0.0",
+  "description": "My first express proj",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "express": "^4.17.2",
+    "sqlite3": "^5.0.2"
+  }
+}
